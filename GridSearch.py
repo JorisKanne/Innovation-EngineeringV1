@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 13 10:56:38 2023
 
-@author: joris
+@author: Joris Kanne
 """
 
 # Use scikit-learn to grid search the number of neurons
